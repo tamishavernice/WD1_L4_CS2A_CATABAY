@@ -1,18 +1,18 @@
 function showGradeEquivalent() {
 
   // declare the 5 students
-  let student1 = "Deib Lohr Enrile";
-  let student2 = "Maxwell Laurent Del Valle";
-  let student3 = "Zarnaih Marchesa";
-  let student4 = "Samantha Maureen De Vera";
-  let student5 = "Kalix Jace Martinez";
+  let student1 = "Ana Reyes";
+  let student2 = "Ben Santos";
+  let student3 = "Carlo Cruz";
+  let student4 = "David Lim";
+  let student5 = "Ella Ramos";
   
   // declare their grades
-  let grade1 = 75;
-  let grade2 = 93;
+  let grade1 = 92;
+  let grade2 = 85;
   let grade3 = 78;
   let grade4 = 97;
-  let grade5 = 98;
+  let grade5 = 74;
 
   let output = "<h2>Grade Equivalents</h2>";
   output += "<table>";
